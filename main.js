@@ -1,4 +1,4 @@
-alert("Bienvenido, en este centro médico podrás encontrar médicos especialistas")
+/* alert("Bienvenido, en este centro médico podrás encontrar médicos especialistas")
 alert("A continuación verás nuestro equipo")
 const Medico = function(nombre,especialidad,turnos){
     this.nombre= nombre,
@@ -100,4 +100,4 @@ function mostrarTurnosConfirmados() {
         alert("No hay turnos confirmados.");
     }
 }
-mostrarTurnosConfirmados();
+mostrarTurnosConfirmados(); */
